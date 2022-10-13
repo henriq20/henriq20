@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi, I'm Henrique! :wave:
 
-<!--
-**henriq20/henriq20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a back-end developer 👨‍💻.
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+<img align="left" alt="NodeJS" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
+<img align="left" alt="JavaScript" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Redis" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
+<img align="left" alt="MySQL" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="Jest" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+<img align="left" alt="Git" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="HTML5" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Sass" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+<img align="left" alt="Docker" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Linux" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Bash" width="20px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<br>
+
+#
+
+### What I'm focusing on
+I'm currently improving my NodeJS and Typescript skills.
+
+#
+
+### Connect with me :earth_americas:
+<a href="https://www.linkedin.com/in/henriq20/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>

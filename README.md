@@ -23,6 +23,8 @@ I work as a back-end developer 👨‍💻.
 
 #
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriq20&hide=blade&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
 ### What I'm focusing on
 I'm currently improving my NodeJS and Typescript skills.
 

@@ -1,6 +1,10 @@
 # Hi, I'm Henrique! :wave:
 
-I work as a back-end developer 👨‍💻.
+Welcome to my profile! I am a Full Stack developer with expertise in **Node.js**, **Typescript**, and **React** :computer:
+
+I am continuously learning and exploring new technologies, which enables me to stay up-to-date with the latest trends :rocket:
+
+Feel free to browse my projects and don't hesitate to reach out if you have any questions or would like to discuss a potential collaboration :speech_balloon:
 
 #
 
